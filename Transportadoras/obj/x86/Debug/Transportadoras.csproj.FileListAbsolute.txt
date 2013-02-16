@@ -1,0 +1,11 @@
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Transportadoras\bin\Debug\Transportadoras.exe.manifest
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Transportadoras\bin\Debug\Transportadoras.application
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Transportadoras\bin\Debug\Transportadoras.exe
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Transportadoras\bin\Debug\Transportadoras.pdb
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Transportadoras\bin\Debug\TransportadorasLib.dll
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Transportadoras\bin\Debug\TransportadorasLib.pdb
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Transportadoras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Transportadoras\obj\x86\Debug\Transportadoras.exe.manifest
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Transportadoras\obj\x86\Debug\Transportadoras.application
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Transportadoras\obj\x86\Debug\Transportadoras.exe
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Transportadoras\obj\x86\Debug\Transportadoras.pdb

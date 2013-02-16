@@ -1,0 +1,6 @@
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\TransportadorasLib\bin\Debug\TransportadorasLib.dll.config
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\TransportadorasLib\bin\Debug\TransportadorasLib.dll
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\TransportadorasLib\bin\Debug\TransportadorasLib.pdb
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\TransportadorasLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\TransportadorasLib\obj\Debug\TransportadorasLib.dll
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\TransportadorasLib\obj\Debug\TransportadorasLib.pdb

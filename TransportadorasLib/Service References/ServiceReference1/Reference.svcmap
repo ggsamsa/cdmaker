@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1c3b4cac-71fb-41fd-b7f7-5aed36bfc315" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:2100/BackofficeService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BackofficeService.disco" MetadataType="Disco" ID="37e50b46-61d5-40c7-806c-40c9124edfa7" SourceId="1" SourceUrl="http://localhost:2100/BackofficeService?disco" />
+    <MetadataFile FileName="BackofficeService.xsd" MetadataType="Schema" ID="9bd56dc5-8079-481c-8760-3604bb7068f6" SourceId="1" SourceUrl="http://localhost:2100/BackofficeService?xsd=xsd1" />
+    <MetadataFile FileName="BackofficeService1.xsd" MetadataType="Schema" ID="57309319-822a-4c89-b94b-91d1b54d4383" SourceId="1" SourceUrl="http://localhost:2100/BackofficeService?xsd=xsd0" />
+    <MetadataFile FileName="BackofficeService.wsdl" MetadataType="Wsdl" ID="e7913c1c-ad07-4fda-b4d8-456aa5d3d75e" SourceId="1" SourceUrl="http://localhost:2100/BackofficeService?wsdl" />
+    <MetadataFile FileName="BackofficeService2.xsd" MetadataType="Schema" ID="60540692-ad36-40b8-acd9-cd138440465a" SourceId="1" SourceUrl="http://localhost:2100/BackofficeService?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

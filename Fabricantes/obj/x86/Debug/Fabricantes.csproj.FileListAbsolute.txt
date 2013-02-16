@@ -1,0 +1,7 @@
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Fabricantes\bin\Debug\Fabricantes.exe
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Fabricantes\bin\Debug\Fabricantes.pdb
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Fabricantes\bin\Debug\FabricantesLib.dll
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Fabricantes\bin\Debug\FabricantesLib.pdb
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Fabricantes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Fabricantes\obj\x86\Debug\Fabricantes.exe
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Fabricantes\obj\x86\Debug\Fabricantes.pdb

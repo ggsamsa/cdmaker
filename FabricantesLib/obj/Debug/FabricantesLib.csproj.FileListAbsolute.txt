@@ -1,0 +1,6 @@
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\FabricantesLib\bin\Debug\FabricantesLib.dll.config
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\FabricantesLib\bin\Debug\FabricantesLib.dll
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\FabricantesLib\bin\Debug\FabricantesLib.pdb
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\FabricantesLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\FabricantesLib\obj\Debug\FabricantesLib.dll
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\FabricantesLib\obj\Debug\FabricantesLib.pdb

@@ -1,0 +1,9 @@
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\BackofficeServer\bin\Debug\BackofficeServer.exe.config
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\BackofficeServer\bin\Debug\BackofficeServer.exe
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\BackofficeServer\bin\Debug\BackofficeServer.pdb
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\BackofficeServer\bin\Debug\BackofficeServerLib.dll
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\BackofficeServer\bin\Debug\lastfm-sharp.dll
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\BackofficeServer\bin\Debug\BackofficeServerLib.pdb
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\BackofficeServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\BackofficeServer\obj\x86\Debug\BackofficeServer.exe
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\BackofficeServer\obj\x86\Debug\BackofficeServer.pdb

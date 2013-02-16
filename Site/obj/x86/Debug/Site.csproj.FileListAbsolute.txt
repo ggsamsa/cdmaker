@@ -1,0 +1,6 @@
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Site\bin\Debug\Site.exe.config
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Site\bin\Debug\Site.exe
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Site\bin\Debug\Site.pdb
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Site\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Site\obj\x86\Debug\Site.exe
+C:\Users\gregor\Dropbox\ISEP\PSIDI\myapps\BackofficeServer\Site\obj\x86\Debug\Site.pdb
